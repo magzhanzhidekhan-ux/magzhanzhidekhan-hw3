@@ -1,0 +1,101 @@
+
+============================================================
+C-01
+REFERENCE: 150,000 tenge for the academic year, in two equal instalments: October and February.
+
+LLM only:
+Which grant or program are you referring to? “Income band 2” varies by scheme, so I need the program or institution name to give the correct amount and payment date.
+
+BM25 RAG:
+A student in income band 2 receives **150,000 tenge for the academic year**, paid in **two equal instalments of 75,000 tenge**: the first in **October** and the second in **February**.
+
+Embedding RAG:
+A student in income band 2 receives **150,000 tenge for the academic year**, paid in **two equal instalments of 75,000 tenge**: one in **October** and the other in **February**.
+
+============================================================
+C-02
+REFERENCE: 14 calendar days from the date on the decision letter, using form GR-305.
+
+LLM only:
+The deadline and form depend on the grant program and the rules in your refusal notice. Many schemes allow only a short period—often 14, 30, or 60 days—but you should not rely on a general timeframe.
+
+Check the refusal/decision letter for:
+
+- the appeal or reconsideration deadline;
+- whether you must request an internal review first;
+- the required form or online portal;
+- where and how to submit it; and
+- any required grounds or supporting documents.
+
+If the letter does not specify these, contact the grant office promptly and ask for the applicable appeal procedure. Please provide the grant program, funding body, and country—or paste the relevant part of the decision letter—and I can help identify the deadline and form.
+
+BM25 RAG:
+You have **14 calendar days from the date on the decision letter** to appeal. Use **Form GR-305**.
+
+Embedding RAG:
+You have **14 calendar days from the date on the decision letter** to appeal. Use **form GR-305**, the Grant Office appeal form.
+
+============================================================
+C-03
+REFERENCE: A cumulative GPA of at least 2.67 on the 4.0 scale. (The 3.0 in GO-05 is the archived 2025 rule.)
+
+LLM only:
+Which need-based grant are you referring to? The minimum GPA varies by grant program, school, and sometimes year.
+
+BM25 RAG:
+The minimum GPA is **2.67 on a 4.0 scale**.
+
+Embedding RAG:
+The minimum GPA is **2.67 on a 4.0 scale**.
+
+============================================================
+C-04
+REFERENCE: A presidential decree of October 2017 ordered the change for 2025; in January 2021 the target was moved to 2031.
+
+LLM only:
+Kazakhstan formally decided to move Kazakh from Cyrillic to a Latin-based alphabet in **2017**:
+
+- **12 April 2017:** President Nursultan Nazarbayev announced and ordered preparations for the change.
+- **27 October 2017:** A presidential decree formally approved the Latin-script transition.
+
+The original target was **2025**, but the timetable was later extended. The transition is now generally scheduled to be completed by **2031**.
+
+BM25 RAG:
+Kazakhstan decided to switch from Cyrillic to Latin in **October 2017**, by presidential decree. The completion deadline was later postponed from **2025 to 2031**.
+
+Embedding RAG:
+Kazakhstan decided to switch from Cyrillic to Latin in **October 2017**, by presidential decree. The transition was initially due to finish by **2025**, but the target was later postponed to **2031**.
+
+============================================================
+C-05
+REFERENCE: In 1963, as the Almaty Institute of National Economy; it took its current name in 2016.
+
+LLM only:
+Narxoz University was founded in **1963** as the **Alma-Ata Institute of National Economy**.
+
+BM25 RAG:
+Narxoz University was founded in 1963 as the Almaty Institute of National Economy.
+
+Embedding RAG:
+Narxoz University was founded in **1963** as the **Almaty Institute of National Economy**.
+
+============================================================
+C-06
+REFERENCE: The corpus does not say. GO-20 says master's students have a separate scheme that the handbook does not describe.
+
+LLM only:
+It depends on your country, school, program, enrollment, and financial circumstances. If you mean the **U.S.**, master’s students generally **cannot receive the federal Pell Grant or FSEOG**, which are mainly for undergraduates. Need-based funding may instead come from:
+
+- **University or department grants**—amounts vary widely and may cover part or all of tuition.
+- **State grants**—eligibility depends on the state and program.
+- **Federal Work-Study**—if your school participates and you demonstrate need.
+- **Institutional fellowships or assistantships**—often include tuition remission and/or a stipend.
+- **Private or professional-organization grants**.
+
+Your FAFSA can still determine eligibility for some institutional aid, work-study, and federal loans, but it does not produce one universal “master’s grant amount.” To estimate your potential aid, I’d need your **country, state/province, school, program, enrollment status, and approximate household income/assets**.
+
+BM25 RAG:
+I don’t know the amount. The 2026 need-based grant described here is only for full-time undergraduate students; master’s students are covered by a separate scheme and should ask their department for its rules.
+
+Embedding RAG:
+You cannot apply for this need-based grant because it is only for full-time undergraduate students. Master’s students should ask their department about the separate scheme for graduate students.
